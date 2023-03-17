@@ -1,5 +1,5 @@
 # Tugas 3
-## ALga Fiky - Alga Fiky - PAM RB
+## Alga Fiky - Alga Fiky - PAM RB
 
 ### Cara  menjalankan code
 
